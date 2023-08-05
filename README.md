@@ -2,8 +2,6 @@
 This game helps expands ones knowledge on structs and pointers in C. C is not an object oriented programming language, so programming this game is a bit challenging. The **Task** is given below.
 
 CSC322: Homework 1
-
-CSC322: Homework 1
 ==================
 
 * * *
